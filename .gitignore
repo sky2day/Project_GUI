@@ -2,4 +2,4 @@
 .classpath
 .project
 bin
-src/com/astoma/ccsf/projectgui/ConsoleGameDriver
+src/com/astoma/ccsf/projectgui/ConsoleGameDriver.java
