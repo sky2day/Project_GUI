@@ -5,7 +5,7 @@ import java.util.Scanner;
 import com.astoma.ccsf.projectgui.GameAPI.Move;
 
 /**
- * @authors A.Stoma, Van Ralf Aguas, Tyler Hoh 
+ * @authors A.Stoma
  * Nov 6, 2016
  */
 public class ConsoleGameDriver {

@@ -1,7 +1,7 @@
 package com.astoma.ccsf.projectgui;
 
 /**
- * @authors A.Stoma, Van Ralf Aguas, Tyler Hoh 
+ * @authors A.Stoma
  * Nov 6, 2016
  */
 

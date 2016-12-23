@@ -3,7 +3,7 @@ package com.astoma.ccsf.projectgui;
 import java.util.Random;
 
 /**
- * @authors A.Stoma, Van Ralf Aguas, Tyler Hoh 
+ * @authors A.Stoma
  * Nov 6, 2016
  */
 public class GameAPI {
